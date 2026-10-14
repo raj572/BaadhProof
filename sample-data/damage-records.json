@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo-001",
+    "incidentDate": "2026-08-14",
+    "district": "Darbhanga",
+    "villageOrLocality": "Demo Village A",
+    "category": "crop",
+    "description": "Fictional example: waterlogging damaged part of a paddy field.",
+    "evidenceFiles": [],
+    "createdAt": "2026-08-15T10:00:00Z"
+  },
+  {
+    "id": "demo-002",
+    "incidentDate": "2026-08-18",
+    "district": "Sitamarhi",
+    "villageOrLocality": "Demo Locality B",
+    "category": "home",
+    "description": "Fictional example: water entered one room; household items were affected.",
+    "evidenceFiles": [],
+    "createdAt": "2026-08-18T12:30:00Z"
+  },
+  {
+    "id": "demo-003",
+    "incidentDate": "2026-08-20",
+    "district": "Madhubani",
+    "villageOrLocality": "Demo Hamlet C",
+    "category": "livestock",
+    "description": "Fictional example: animal shelter was damaged by floodwater.",
+    "evidenceFiles": [],
+    "createdAt": "2026-08-21T08:15:00Z"
+  }
+]
